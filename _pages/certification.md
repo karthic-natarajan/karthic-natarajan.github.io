@@ -1,5 +1,5 @@
-link: /about/
-title: "About Me"
+link: /certification/
+title: "Certifcation"
 ---
 
 I am a Senior Product Developer ( Cloud & Data Analytics ) based out of Chennai, India. 
