@@ -1,4 +1,10 @@
 # main links
 main:
-  - title: "Certifcation"
-    url: /certification/
+  - title: "Projects"
+    url: /projects/
+  - title: "Academics"
+    url: /academics/
+  - title: "Certification"
+    url: /certification1/
+  - title: "Other"
+    url: /others/
