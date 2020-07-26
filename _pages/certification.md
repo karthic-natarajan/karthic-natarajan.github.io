@@ -6,11 +6,11 @@ title: "Certification"
 
 | Microsoft  |
 |---|
-| Microsoft Certified: Azure Solutions Architect Expert  |
-| AZ-300 Microsoft Azure Architect Technologies  |
-| AZ-301 Microsoft Azure Architect Design  |
-| Microsoft Certified: Azure AI Engineer Associate  |
-| Exam 774: Perform Cloud Data Science with Azure Machine Learning  |
+| - Microsoft Certified: Azure Solutions Architect Expert  |
+| - AZ-300 Microsoft Azure Architect Technologies  |
+| - AZ-301 Microsoft Azure Architect Design  |
+| - Microsoft Certified: Azure AI Engineer Associate  |
+| - Exam 774: Perform Cloud Data Science with Azure Machine Learning  |
 
 | Google|
 |---|
