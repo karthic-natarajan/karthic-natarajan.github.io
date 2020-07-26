@@ -4,7 +4,11 @@ main:
     url: /projects/
   - title: "Academics"
     url: /academics/
+  - title: "Skills"
+    url: /skills/
   - title: "Certification"
     url: /certification/
-  - title: "Other"
+  - title: "Resume"
+    url: /resume/
+  - title: "Others"
     url: /others/

@@ -17,8 +17,8 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : #"'Firmitas, Utilitas et Venustas'- Vitruvius (15 BC)"
-title_separator          : #"-"
+title                    : "Karthic Natarajan"
+title_separator          : "-"
 subtitle                 : "'Firmitas, Utilitas et Venustas'- Vitruvius (15 BC)"
 name                     : "Karthic Natarajan"
 description              : "Karthic Natarajan's Portfolio"
@@ -96,16 +96,16 @@ analytics:
 author:
   name             : "Karthic Natarajan"
   avatar           : "/assets/images/avatar.jpg"
-  bio              : "Senior Product Developer / Cloud & Data Analytics / Experimenting Multi-Cloud / Interested in System Design & Architecture / Learning Minimalism"
+  bio              : "Senior Product Developer / Building Data Intelligence & Analytics Product / System Design & Architecture / Learning Minimalism"
   location         : "Chennai, India"
   email            : #"Karthic Natarajan"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "karthic.natarajan@live.com"
-    - label: "Website"
+    - label: "My Wordpress"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://devfork.wordpress.com/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/karthicn_"
@@ -217,6 +217,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-target-blank
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -277,3 +278,10 @@ defaults:
       comments: # true
       share: true
       related: true
+# _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
